@@ -1,0 +1,33 @@
+.App-logo-home{
+    width:120px;
+    padding-top: 100px;
+}
+.first-con{
+    background-color:#23272f ;
+    margin-top: 0;
+    text-align: center;
+    padding-top: 10px;
+}
+.container-fluid{
+    margin-bottom:0%;
+    padding-bottom: 0%;
+}
+.button-style{
+    margin-top: 20px;
+    padding: 9px;
+    width: 150px;
+    border-radius: 25px;
+    margin-right: 6px;
+    font-weight: 50px;
+}
+.colorr{
+    border: 1px solid #2c3039;
+}
+.space{
+    padding: 60px;
+
+}
+.comp2{
+    background-color:#1b1d24 ;
+    color: white;
+}
